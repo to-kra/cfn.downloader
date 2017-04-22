@@ -1,0 +1,15 @@
+{
+  "name": "cfn",
+  "version": "1.0.0",
+  "description": "CFN downloader",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tokra.eu",
+  "license": "Apache 2.0",
+  "dependencies": {
+    "json2csv": "^3.7.3",
+    "tabletojson": "^0.4.0"
+  }
+}
